@@ -1,0 +1,5 @@
+C:\Users\fortn\ClipperProject\Clipper\bin\Release\net8.0-windows\win-x64\publish\Clipper.exe
+C:\Users\fortn\ClipperProject\Clipper\bin\Release\net8.0-windows\win-x64\publish\Clipper.dll
+C:\Users\fortn\ClipperProject\Clipper\bin\Release\net8.0-windows\win-x64\publish\Clipper.deps.json
+C:\Users\fortn\ClipperProject\Clipper\bin\Release\net8.0-windows\win-x64\publish\Clipper.runtimeconfig.json
+C:\Users\fortn\ClipperProject\Clipper\bin\Release\net8.0-windows\win-x64\publish\Clipper.pdb
