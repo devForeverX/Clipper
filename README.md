@@ -8,9 +8,9 @@ Perfect for catching game highlights, funny moments, or anything you didn’t ex
 
 # Development
 
-The Clipper project is Created and Code by Me. You can Modify my project in source code, features what ever!
+The Clipper project is created and Coded by Me. You can Modify my project in source code, features what ever!
 
-Please note the Apache License 2.0.
+Please note the **Apache License 2.0.**
 
 LG
 
@@ -18,4 +18,8 @@ LG
 
 # Binaries
 
-Windows: 
+Windows: **https://github.com/devForeverX/Clipper/releases/tag/v1.0.0**
+
+Linux: **(soon)**
+
+Macos: **(soon)**
